@@ -1,0 +1,5 @@
+{
+    "status": "send_email",
+    "message": "This is a test email.",
+    "recipient": "jonahlang@gmail.com"
+}
